@@ -1,2 +1,2 @@
 # Microsoft-Clone
-Its a Microsoft Official CLone developed with the Basics that is, HTML and CSS.
+Microsoft Official Website Clone developed with the Basics that is, HTML and CSS.
